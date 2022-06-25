@@ -1,0 +1,41 @@
+namn gissad_tid cykla springa simma start_tid slut_tid procentuell_skilnad fortfarande_aktiv start_grupp startat
+
+
+Snabbast 9000 True True True 2022-06-20 10:00:15.810278 2022-06-20 10:00:15.840079 -1 False 2 True
+
+Bäst_gissning 60 False True True 2022-06-20 12:50:15.116478 2022-06-20 12:51:15.116478 -1 False 2 True
+
+Näst_bäst_gissing 30:21 True False False 2022-06-20 12:20:00.00001 2022-06-20 12:50:23.00001 -1 False 1 True
+
+Tove_S 400 False False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 1 False
+
+Anna_C 500 True False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 True 1 True
+
+Gosta_S 600 False False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 0 False
+
+Anneli_C 700 True True True 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 True 0 True
+
+Hasse_C 900 True True True 2022-06-19 10:00:15.840078 2022-06-20 15:30:15.846488 -1 True 3 True
+
+Svensson 700 True True True 2022-06-19 12:50:15.846478 2022-06-20 15:40:15.846488 -1 False 2 False
+
+Widebrant 9000 True True True 2022-06-19 9:06:15.840078 2022-06-20 15:30:15.846488 -1 True 2 True
+
+Josefin 9000 True True True 2022-06-19 9:00:15.840078 2022-06-20  9:08:15.840079 -1 False 2 True
+jögren 30:01 True False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 1 False
+Titta 400 False False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 1 False
+På 500 True False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 True 1 True
+Mig 600 False False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 0 False
+Jag 700 True True True 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 True 0 True
+Mår 900 True True True 2022-06-19 10:00:25.840078 2022-06-20 15:30:15.846488 -1 True 3 True
+Bra 700 True True True 2022-06-19 12:50:35.846478 2022-06-20 15:40:15.846488 -1 False 2 False
+Idag 9000 True True True 2022-06-19 9:00:15.844078 2022-06-20 15:30:15.846488 -1 True 2 True
+Jo 9000 True True True 2022-06-19 9:00:15.840978 2022-06-20  9:10:15.840079 -1 False 2 True
+Annica 30:01 True False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 1 False
+ToreS 400 False False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 1 False
+Torbjörn 500 True False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 True 1 True
+Örjkan 600 False False False 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 False 0 False
+Petter 700 True True True 1970-01-01 01:00:00.000001 1970-01-01 01:00:00.000001 -1 True 0 True
+Malin 900 True True True 2022-06-19 13:10:25.840078 2022-06-20 15:30:15.846488 -1 True 3 True
+Edvin 700 True True True 2022-06-19 12:50:15.116478 2022-06-20 15:40:15.846488 -1 False 2 False
+Tycker 9000 True True True 2022-06-19 9:20:17.840078 2022-06-20 15:30:15.846488 -1 True 2 True
